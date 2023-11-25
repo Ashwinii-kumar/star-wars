@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.searchBar{
+    position: relative;
+    
+
+}
+.searchBar input ::placeholder{
+    color:"white";
+}
+
